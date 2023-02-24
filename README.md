@@ -7,10 +7,13 @@ Dans un futur proche, en l’an 2077, alors que le monde que nous connaissons es
 
 ## Visuels
 
+### Lancement du jeu
 ![waha](https://user-images.githubusercontent.com/76477373/221232741-e0cd24b5-7b0b-4ca8-9a16-1ae15ff2a720.png)
 
+### Le joueur rencontre un PNJ
 ![player meets darla](https://user-images.githubusercontent.com/76477373/221232764-f52dfab6-5335-4414-9aee-2b15aa2dd7df.png)
 
+### Le joueur rencontre un ennemi
 ![player meets kurt](https://user-images.githubusercontent.com/76477373/221232782-01be6934-f5f9-4d58-bfeb-25cad204488c.png)
 
 ## Auteurs
